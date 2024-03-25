@@ -1,3 +1,4 @@
+//result component
 import { calculateInvestmentResults, formatter } from "../util/investment.js";
 
 export default function Results({ input }) {
