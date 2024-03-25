@@ -1,3 +1,4 @@
+//this is the degguging practice project
 import { useState } from 'react';
 
 import Header from './components/Header.jsx';
